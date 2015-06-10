@@ -15,5 +15,10 @@ namespace ConsoleApplication1
             //another comment
             //comment 3
         }
+
+        private void doSomething()
+        {
+            //do nothing
+        }
     }
 }
