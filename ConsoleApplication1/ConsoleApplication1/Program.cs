@@ -13,6 +13,7 @@ namespace ConsoleApplication1
             Console.WriteLine("hello world");       
             //just some commment    
             //another comment
+            //comment 3
         }
     }
 }
