@@ -15,6 +15,7 @@ namespace ConsoleApplication1
             //another comment
             //comment 3
             //comment 4 in master but not origin/master
+            //comment 5 in branch1FromMaster
         }
     }
 }
